@@ -12,8 +12,8 @@ import java.util.Arrays;
 public class GoogleTranslate extends AsyncTask<String, Void, String> {
 
 
-     //private final String API_KEY = "AIzaSyBeBQFH5PHs28F3JOWvl_h6JoDONdpTidQ";
-     private final String API_KEY ="AIzaSyBcNt-1fLzrweshn5glNTF94CeJpfzqqCs";
+     //private final String API_KEY = "Your API Key";
+     //private final String API_KEY ="Your API key";
 
 
 
